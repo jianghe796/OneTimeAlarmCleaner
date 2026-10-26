@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">一次性闹钟清理</string>
+    <string name="xposed_description">ColorOS 时钟：一次性闹钟响铃结束后自动删除，不再残留「已关闭」条目。</string>
+</resources>
